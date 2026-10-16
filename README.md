@@ -1,1 +1,1 @@
-# Git Intro Project
+# gt-intro
