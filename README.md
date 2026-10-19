@@ -1,1 +1,1 @@
-# gt-intro
+# git-intro
